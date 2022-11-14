@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = http://github.com/Jh0n77/sihibo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
